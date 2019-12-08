@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Russia",
+    "regionId": 1
+  },
+  {
+    "value": "USA",
+    "regionId": 3
+  },
+  {
+    "value": "Italy",
+    "regionId": 1
+  },
+  {
+    "value": "France",
+    "regionId": 1
+  },
+  {
+    "value": "Poland",
+    "regionId": 1
+  },
+  {
+    "value": "Greece",
+    "regionId": 1
+  }
+]
